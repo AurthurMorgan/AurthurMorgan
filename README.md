@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathavan</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🏫 I’m currently studying at **Ryerson University (TMU)**
+- 🏫 I’m currently studying at **Toronto Metropolitan University (Ryerson University)**
 
 - ⚽️ I'm interested in **programming, soccer, and reading.**
 
